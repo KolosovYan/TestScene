@@ -23,9 +23,6 @@
         },
         {
             "m_Id": "50954017736d442b886e41dc3d3d1227"
-        },
-        {
-            "m_Id": "913903b3050f42cda12c25ff9d18dd1b"
         }
     ],
     "m_Keywords": [],
@@ -1640,30 +1637,6 @@
         "b": 0.5,
         "a": 1.0
     }
-}
-
-{
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "913903b3050f42cda12c25ff9d18dd1b",
-    "m_Guid": {
-        "m_GuidSerialized": "152f4ef9-7a55-421c-8123-b89cc221d028"
-    },
-    "m_Name": "Dark Foam Color",
-    "m_DefaultReferenceName": "Color_913903b3050f42cda12c25ff9d18dd1b",
-    "m_OverrideReferenceName": "Dark_Foam_Color_",
-    "m_GeneratePropertyBlock": true,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 0.041061434894800189,
-        "g": 0.33435747027397158,
-        "b": 0.5249999761581421,
-        "a": 0.0
-    },
-    "m_ColorMode": 0
 }
 
 {

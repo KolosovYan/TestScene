@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/PolygonCity
+Assets/PolygonCity
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
